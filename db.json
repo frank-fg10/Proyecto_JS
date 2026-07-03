@@ -1,0 +1,70 @@
+{
+    "productos": [
+        {
+            "id": 1,
+            "nombre": "Cerveza Duff Clásica",
+            "categoria": "Cerveza",
+            "precio": 8.5,
+            "imagenUrl": "https://www.thecocktaildb.com/images/ingredients/Beer.png",
+            "frase": "La favorita después del trabajo.",
+            "descripcion": "Cerveza fría estilo clásico, ideal para compartir en una noche entre amigos.",
+            "stock": 25,
+            "promocion": true
+        },
+        {
+            "id": 2,
+            "nombre": "Vino Tinto Don Moe",
+            "categoria": "Vino",
+            "precio": 35.9,
+            "imagenUrl": "https://www.thecocktaildb.com/images/ingredients/Red%20Wine.png",
+            "frase": "Elegante, intenso y servido con actitud.",
+            "descripcion": "Vino tinto de sabor intenso, perfecto para cenas y reuniones especiales.",
+            "stock": 15,
+            "promocion": false
+        },
+        {
+            "id": 3,
+            "nombre": "Pisco Springfield",
+            "categoria": "Pisco",
+            "precio": 42.0,
+            "imagenUrl": "https://www.thecocktaildb.com/images/ingredients/Pisco.png",
+            "frase": "Para brindar como todo un experto.",
+            "descripcion": "Pisco premium para preparar chilcanos y cócteles tradicionales.",
+            "stock": 18,
+            "promocion": true
+        },
+        {
+            "id": 4,
+            "nombre": "Whisky Nuclear",
+            "categoria": "Whisky",
+            "precio": 89.9,
+            "imagenUrl": "https://www.thecocktaildb.com/images/ingredients/Whiskey.png",
+            "frase": "Fuerte, serio y con carácter de taberna.",
+            "descripcion": "Whisky de colección con sabor fuerte y presentación elegante.",
+            "stock": 10,
+            "promocion": false
+        },
+        {
+            "id": 5,
+            "nombre": "Pack Duffman Fiesta",
+            "categoria": "Pack",
+            "precio": 65.0,
+            "imagenUrl": "https://www.thecocktaildb.com/images/ingredients/Beer.png",
+            "frase": "El combo para encender cualquier reunión.",
+            "descripcion": "Pack especial con cervezas, snacks y bebida de la casa.",
+            "stock": 12,
+            "promocion": true
+        },
+        {
+            "id": 6,
+            "nombre": "Ron Krusty Gold",
+            "categoria": "Ron",
+            "precio": 55.5,
+            "imagenUrl": "https://www.thecocktaildb.com/images/ingredients/Rum.png",
+            "frase": "Dorado, alegre y perfecto para cócteles.",
+            "descripcion": "Ron dorado ideal para cócteles dulces y bebidas tropicales.",
+            "stock": 20,
+            "promocion": false
+        }
+    ]
+}
